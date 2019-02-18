@@ -1,1 +1,1 @@
-worker: python changmunebot.py
+worker: python amdradeonviibot.py
